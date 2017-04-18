@@ -75,10 +75,6 @@
         updateStatus();
     };
 
-    var onMouseoutSquare = function(square, piece) {
-        removeGreySquares();
-    };
-
     var onMouseoverSquare = function(square, piece) {
         // get list of possible moves for this square
         var moves = game.moves({
