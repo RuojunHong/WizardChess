@@ -6,7 +6,8 @@ chess.js by Jeff Hlywa<br>
 chessboard.js by Chris Oakman
 
 UI: Dailing Zhu<br/>
-Integration: Ruojun Hong
+Integration: Ruojun Hong<br/>
+
 #About #WizardChess from Harry Potter Wiki
 
 Hermione: "That's totally barbaric."<br/>

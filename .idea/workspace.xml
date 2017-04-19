@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06244a3d-e3c3-4bbe-919a-1b94efa4bca8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bB.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bB.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bK.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bK.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bN.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bN.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bP.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bP.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bQ.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bQ.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bR.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bR.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wB.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wB.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wK.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wK.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wN.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wN.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wP.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wP.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wQ.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wQ.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wR.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wR.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -311,12 +299,12 @@
       <workItem from="1489893465145" duration="288000" />
       <workItem from="1491945988762" duration="7050000" />
       <workItem from="1492552874936" duration="1375000" />
-      <workItem from="1492554354088" duration="1279000" />
+      <workItem from="1492554354088" duration="1406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11840000" />
+    <option name="totallyTimeSpent" value="11967000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -548,11 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/wK.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/bP.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -671,6 +654,11 @@
           </first_editor>
           <second_editor />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/wK.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
