@@ -1,18 +1,21 @@
-# WizardChess
+# WizardChess #
+
+Hermione: "That's totally barbaric."<br/>
+Ron: "That's Wizard's chess."<br/>
+— Hermione Granger and Ron Weasley during Christmas season in 1991
+
 The final project for my social multiplayer games class at NYU.</br>
 Chess game created based on libraries:
 
 chess.js by Jeff Hlywa<br>
 chessboard.js by Chris Oakman
 
+
+## Team ##
 UI: Dailing Zhu<br/>
 Integration: Ruojun Hong<br/>
 
-#About #WizardChess from Harry Potter Wiki
-
-Hermione: "That's totally barbaric."<br/>
-Ron: "That's Wizard's chess."<br/>
-— Hermione Granger and Ron Weasley during Christmas season in 1991
+## About #WizardChess from Harry Potter Wiki ##
 
 Wizard's Chess is the enchanted variant of the classic board game in which the pieces move of their own accord when commanded by the player. When a piece is taken, it is removed by the attacking piece, often in a barbaric manner where the losing piece is smashed violently by the winning piece.
 
