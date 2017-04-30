@@ -36,14 +36,16 @@
 
 /* white square */
 .white-1e1d7 {
-  background-color: #f0d9b5;
-  color: #b58863;
+  background-image: url(img_cheker_white_80x80.png);
+  /*background-color: #f0d9b5;
+  color: #b58863;*/
 }
 
 /* black square */
 .black-3c85d {
-  background-color: #b58863;
-  color: #f0d9b5;
+  background-image: url(img_cheker_black_80x80.png);
+  /*background-color: #b58863;
+  color: #f0d9b5;*/
 }
 
 /* highlighted square */
