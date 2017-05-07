@@ -5,38 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06244a3d-e3c3-4bbe-919a-1b94efa4bca8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/img_background_1920x1080.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/img_background_968x1721.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/img_button_playWithCom_659x98.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/img_button_playWithFri_533x98.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/img_button_readRule_449x114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/img_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/confighelper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/cordova-js-src/confighelper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/cordova-js-src/exec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/cordova-js-src/platform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/cordova.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/exec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/platform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/js/chess.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/js/chessboard-0.3.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/js/chessboard-0.3.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/js/jquery-1.10.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/js/json3.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/multiple.html" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/multiple.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/single.html" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/css/chessboard-0.3.0.css" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/css/chessboard-0.3.0.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/index.html" afterPath="$PROJECT_DIR$/Wizard Chess/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/multiple.html" afterPath="$PROJECT_DIR$/Wizard Chess/www/multiple.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/single.html" afterPath="$PROJECT_DIR$/Wizard Chess/www/single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/css/chessboard-0.3.0.css" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/css/chessboard-0.3.0.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple.html" afterPath="$PROJECT_DIR$/multiple.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single.html" afterPath="$PROJECT_DIR$/single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/chessboard-0.3.0.css" afterPath="$PROJECT_DIR$/src/css/chessboard-0.3.0.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -82,12 +52,11 @@
       <file leaf-file-name="multiple.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/multiple.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+            <state relative-caret-position="270">
+              <caret line="39" column="61" lean-forward="false" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#5367#5373#0" expanded="true" />
+                <element signature="e#5363#5369#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -335,12 +304,12 @@
       <workItem from="1493582249812" duration="2418000" />
       <workItem from="1493759659354" duration="955000" />
       <workItem from="1493761353885" duration="55000" />
-      <workItem from="1494121817306" duration="2845000" />
+      <workItem from="1494121817306" duration="3130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24576000" />
+    <option name="totallyTimeSpent" value="24861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -675,12 +644,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/multiple.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        <state relative-caret-position="270">
+          <caret line="39" column="61" lean-forward="false" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
           <folding>
             <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5367#5373#0" expanded="true" />
+            <element signature="e#5363#5369#0" expanded="true" />
           </folding>
         </state>
       </provider>
