@@ -4,7 +4,21 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06244a3d-e3c3-4bbe-919a-1b94efa4bca8" name="Default" comment="" />
+    <list default="true" id="06244a3d-e3c3-4bbe-919a-1b94efa4bca8" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Wizard Chess.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/README.md" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/multiple.html" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/multiple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/single.html" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/README.md" afterPath="$PROJECT_DIR$/Wizard Chess/www/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/index.html" afterPath="$PROJECT_DIR$/Wizard Chess/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/multiple.html" afterPath="$PROJECT_DIR$/Wizard Chess/www/multiple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/single.html" afterPath="$PROJECT_DIR$/Wizard Chess/www/single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple.html" afterPath="$PROJECT_DIR$/multiple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single.html" afterPath="$PROJECT_DIR$/single.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,13 +35,13 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+            <state relative-caret-position="272">
+              <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
               <folding>
-                <element signature="e#1519#1525#0" expanded="true" />
+                <element signature="e#1510#1516#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -36,11 +50,11 @@
       <file leaf-file-name="single.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/single.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+            <state relative-caret-position="116">
+              <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#5449#5455#0" expanded="true" />
+                <element signature="e#5308#5314#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,14 +94,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multiple.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="multiple.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/multiple.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="139" column="43" lean-forward="true" selection-start-line="139" selection-start-column="43" selection-end-line="139" selection-end-column="43" />
+            <state relative-caret-position="315">
+              <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4959#4965#0" expanded="true" />
+                <element signature="e#4816#4822#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,6 +135,8 @@
       <find>bB.png</find>
       <find>Ra</find>
       <find>status</find>
+      <find>fen</find>
+      <find>FEN</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -130,10 +146,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/js/chessboard-0.3.0.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/css/wizardchess.css" />
         <option value="$PROJECT_DIR$/src/css/chessboard-0.3.0.css" />
         <option value="$PROJECT_DIR$/example_state.html" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/single.html" />
         <option value="$PROJECT_DIR$/multiple.html" />
@@ -293,18 +309,18 @@
       <workItem from="1493582249812" duration="2418000" />
       <workItem from="1493759659354" duration="955000" />
       <workItem from="1493761353885" duration="55000" />
-      <workItem from="1494121817306" duration="703000" />
+      <workItem from="1494121817306" duration="1431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22434000" />
+    <option name="totallyTimeSpent" value="23162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2184637" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2184637" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -312,7 +328,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -342,7 +358,7 @@
           <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4959#4965#0" expanded="true" />
+            <element signature="e#4816#4822#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -387,7 +403,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1519#1525#0" expanded="true" />
+            <element signature="e#1510#1516#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -437,7 +453,7 @@
         <state relative-caret-position="270">
           <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
-            <element signature="e#1519#1525#0" expanded="true" />
+            <element signature="e#1510#1516#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -554,21 +570,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/wizardchess.css" />
     <entry file="file://$PROJECT_DIR$/src/css/chessboard-0.3.0.min.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -607,17 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multiple.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="139" column="43" lean-forward="true" selection-start-line="139" selection-start-column="43" selection-end-line="139" selection-end-column="43" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4959#4965#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/img/img_background_968x1721.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -628,23 +618,50 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5449#5455#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        <state relative-caret-position="272">
+          <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
           <folding>
-            <element signature="e#1519#1525#0" expanded="true" />
+            <element signature="e#1510#1516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5308#5314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4816#4822#0" expanded="true" />
           </folding>
         </state>
       </provider>

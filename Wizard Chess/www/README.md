@@ -1,4 +1,4 @@
-# WizardChess #
+# WizardChess- Play chess at Hogwarts!#
 
 Hermione: "That's totally barbaric."<br/>
 Ron: "That's Wizard's chess."<br/>

@@ -19,8 +19,6 @@
 <h1>Wizard Chess</h1>
 <div id="board" class="container text-center" style="width: 400px"></div>
 <p><span id="status"></span></p>
-<p>FEN: <span id="fen"></span></p>
-<p>PGN: <span id="pgn"></span></p>
 <script src="src/js/json3.min.js"></script>
 <script src="src/js/jquery-1.10.1.min.js"></script>
 <script src="src/js/chessboard-0.3.0.js"></script>
@@ -133,7 +131,7 @@
 
         // game still on
         else {
-            status = "Now "+moveColor + "'s turn!";
+            status = "Now "+ moveColor + "'s turn!";
 
             // check?
             if (game.in_check() === true) {
@@ -141,8 +139,7 @@
             }
         }
         statusEl.html(status);
-        fenEl.html(game.fen());
-        pgnEl.html(game.pgn());
+
     };
 
     var cfg = {
@@ -159,7 +156,7 @@
 </script>
 </div>
 <div class="container text-center"><a class="button" href="index.html">Back to main menu</a></p></div>
-<div class="navbar-fixed-bottom text-center"><p><audio controls autoplay>
+<div class="navbar-fixed-bottom text-center"><p><audio autoplay>
     <source src="src/audio/bgm.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio></p><p>Copyright &copy; Ruojun Hong,Dailing Zhu, New York University, 2017</p></div>
