@@ -5,19 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06244a3d-e3c3-4bbe-919a-1b94efa4bca8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Wizard Chess.zip" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/img_background_1920x1080.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/img_background_968x1721.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/img_button_playWithCom_659x98.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/img_button_playWithFri_533x98.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/img_button_readRule_449x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/img_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/confighelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/cordova-js-src/confighelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/cordova-js-src/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/cordova-js-src/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/js/chess.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/js/chessboard-0.3.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/js/chessboard-0.3.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/js/jquery-1.10.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/js/json3.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/README.md" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/multiple.html" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/multiple.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/single.html" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/README.md" afterPath="$PROJECT_DIR$/Wizard Chess/www/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/css/chessboard-0.3.0.css" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/css/chessboard-0.3.0.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/index.html" afterPath="$PROJECT_DIR$/Wizard Chess/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/multiple.html" afterPath="$PROJECT_DIR$/Wizard Chess/www/multiple.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/single.html" afterPath="$PROJECT_DIR$/Wizard Chess/www/single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/css/chessboard-0.3.0.css" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/css/chessboard-0.3.0.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple.html" afterPath="$PROJECT_DIR$/multiple.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single.html" afterPath="$PROJECT_DIR$/single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/chessboard-0.3.0.css" afterPath="$PROJECT_DIR$/src/css/chessboard-0.3.0.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,10 +57,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+            <state relative-caret-position="285">
+              <caret line="38" column="71" lean-forward="false" selection-start-line="38" selection-start-column="71" selection-end-line="38" selection-end-column="71" />
               <folding>
-                <element signature="e#1510#1516#0" expanded="true" />
+                <element signature="e#2060#2066#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,45 +69,11 @@
       <file leaf-file-name="single.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/single.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state relative-caret-position="195">
+              <caret line="40" column="71" lean-forward="false" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#5308#5314#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chessboard-0.3.0.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/chessboard-0.3.0.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9990">
-              <caret line="674" column="35" lean-forward="false" selection-start-line="674" selection-start-column="35" selection-end-line="674" selection-end-column="35" />
-              <folding>
-                <marker date="1492436308000" expanded="true" signature="15442:15501" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chess.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/chess.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chessboard-0.3.0.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/chessboard-0.3.0.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" column="14" lean-forward="false" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
-              <folding>
-                <marker date="1493587165000" expanded="true" signature="660:675" ph="/*...*/" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5865#5871#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,22 +82,13 @@
       <file leaf-file-name="multiple.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/multiple.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+            <state relative-caret-position="240">
+              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4816#4822#0" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5367#5373#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chessboard-0.3.0.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/chessboard-0.3.0.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -147,9 +123,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/js/chessboard-0.3.0.js" />
         <option value="$PROJECT_DIR$/src/css/wizardchess.css" />
-        <option value="$PROJECT_DIR$/src/css/chessboard-0.3.0.css" />
         <option value="$PROJECT_DIR$/example_state.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/css/chessboard-0.3.0.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/single.html" />
         <option value="$PROJECT_DIR$/multiple.html" />
@@ -196,6 +172,56 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WizardChess" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WizardChess" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WizardChess" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WizardChess" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WizardChess" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WizardChess" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WizardChess" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -309,16 +335,16 @@
       <workItem from="1493582249812" duration="2418000" />
       <workItem from="1493759659354" duration="955000" />
       <workItem from="1493761353885" duration="55000" />
-      <workItem from="1494121817306" duration="1431000" />
+      <workItem from="1494121817306" duration="2845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23162000" />
+    <option name="totallyTimeSpent" value="24576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2184637" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -328,7 +354,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -352,24 +378,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/multiple.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4816#4822#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LICENSE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -403,7 +411,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1510#1516#0" expanded="true" />
+            <element signature="e#2060#2066#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -453,7 +461,7 @@
         <state relative-caret-position="270">
           <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
-            <element signature="e#1510#1516#0" expanded="true" />
+            <element signature="e#2060#2066#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -571,49 +579,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/wizardchess.css" />
-    <entry file="file://$PROJECT_DIR$/src/css/chessboard-0.3.0.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example_state.html" />
-    <entry file="file://$PROJECT_DIR$/src/js/chessboard-0.3.0.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9990">
-          <caret line="674" column="35" lean-forward="false" selection-start-line="674" selection-start-column="35" selection-end-line="674" selection-end-column="35" />
-          <folding>
-            <marker date="1492436308000" expanded="true" signature="15442:15501" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/chess.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/chessboard-0.3.0.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="14" lean-forward="false" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
-          <folding>
-            <marker date="1493587165000" expanded="true" signature="660:675" ph="/*...*/" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/img/img_background_968x1721.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/img_background_1280x720.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -634,34 +601,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/chess.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/chessboard-0.3.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4680">
+          <caret line="674" column="35" lean-forward="false" selection-start-line="674" selection-start-column="35" selection-end-line="674" selection-end-column="35" />
+          <folding>
+            <marker date="1492436308000" expanded="true" signature="15442:15501" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/chessboard-0.3.0.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/img_background_1280x720.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/img_background_1920x1080.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/chessboard-0.3.0.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <marker date="1494124567000" expanded="true" signature="660:675" ph="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/img_title.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        <state relative-caret-position="285">
+          <caret line="38" column="71" lean-forward="false" selection-start-line="38" selection-start-column="71" selection-end-line="38" selection-end-column="71" />
           <folding>
-            <element signature="e#1510#1516#0" expanded="true" />
+            <element signature="e#2060#2066#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/single.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        <state relative-caret-position="195">
+          <caret line="40" column="71" lean-forward="false" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5308#5314#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5865#5871#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/multiple.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        <state relative-caret-position="240">
+          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4816#4822#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5367#5373#0" expanded="true" />
           </folding>
         </state>
       </provider>

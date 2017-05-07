@@ -14,9 +14,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>Wizard Chess</title>
     <link rel="stylesheet" href="src/css/chessboard-0.3.0.css" />
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+        }
+
+        .bg {
+            /* The image used */
+            background-image: url("src/img/img_background_1280x720.png");
+
+            /* Full height */
+            height: 100%;
+
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
 </head>
+<body>
+<div class="bg">
 <div class="container text-center">
-<h1>Wizard Chess</h1>
+<h1>
+    <img src="src/img/img_title.png" alt="Wizard Chess" style="width: 400px">
+</h1>
 <div id="board" class="container text-center" style="width: 400px"></div>
 <p><span id="status"></span></p>
 <script src="src/js/json3.min.js"></script>
@@ -160,4 +183,6 @@
     <source src="src/audio/bgm.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio></p><p>Copyright &copy; Ruojun Hong,Dailing Zhu, New York University, 2017</p></div>
+</div>
+</body>
 </html>
