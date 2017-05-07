@@ -17,7 +17,7 @@
 <div class="container text-center">
 <h1>Wizard Chess</h1>
 <div id="board" class="container text-center" style="width: 400px"></div>
-<p>Status: <span id="status"></span></p>
+<p><span id="status"></span></p>
 <p>FEN: <span id="fen"></span></p>
 <p>PGN: <span id="pgn"></span></p>
 
@@ -119,7 +119,7 @@
 
         // game still on
         else {
-            status = moveColor + ' to move';
+            status = "Now "+moveColor + "'s turn!";
 
             // check?
             if (game.in_check() === true) {
@@ -145,5 +145,6 @@
     updateStatus();
 </script>
 </div>
+<div class="container text-center"><a class="button" href="index.html">Back to main menu</a></p></div>
 <div class="navbar-fixed-bottom text-center">Copyright &copy; Ruojun Hong,Dailing Zhu, New York University, 2017</div>
 </html>
