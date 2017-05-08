@@ -74,9 +74,9 @@
 .option{
   width: 70%; max-width: 300px;
 }
-.option:hover, .option:active{
+.option:hover{
   width: 80%;
-  max-width: 400px;
+  max-width: 350px;
 }
 
 .footer{
