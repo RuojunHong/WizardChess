@@ -74,7 +74,11 @@
 .option{
   width: 70%; max-width: 300px;
 }
-.option:hover{
+.option:hover, .option:active{
   width: 80%;
   max-width: 400px;
+}
+
+.footer{
+  color: silver;
 }
