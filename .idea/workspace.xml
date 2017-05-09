@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06244a3d-e3c3-4bbe-919a-1b94efa4bca8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/img_button_playWithCom_659x98.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/img_button_playWithCom_659x98.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/img_button_playWithFri_533x98.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/img_button_playWithFri_533x98.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/img_button_readRule_449x114.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/img_button_readRule_449x114.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bB.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bB.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bK.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bK.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bN.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bN.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bP.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bQ.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bQ.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bR.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/bR.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wB.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wB.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wK.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wK.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wN.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wN.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wP.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wQ.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wQ.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wR.png" afterPath="$PROJECT_DIR$/src/img/chesspieces/wikipedia/wR.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/index.html" afterPath="$PROJECT_DIR$/Wizard Chess/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/multiple.html" afterPath="$PROJECT_DIR$/Wizard Chess/www/multiple.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/single.html" afterPath="$PROJECT_DIR$/Wizard Chess/www/single.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/css/chessboard-0.3.0.css" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/css/chessboard-0.3.0.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple.html" afterPath="$PROJECT_DIR$/multiple.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single.html" afterPath="$PROJECT_DIR$/single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/chessboard-0.3.0.css" afterPath="$PROJECT_DIR$/src/css/chessboard-0.3.0.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,7 +41,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
+            <state relative-caret-position="630">
               <caret line="42" column="135" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="135" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -61,8 +66,8 @@
       <file leaf-file-name="single.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/single.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="180" column="158" lean-forward="false" selection-start-line="180" selection-start-column="35" selection-end-line="180" selection-end-column="158" />
+            <state relative-caret-position="2670">
+              <caret line="178" column="9" lean-forward="true" selection-start-line="178" selection-start-column="9" selection-end-line="178" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -72,10 +77,17 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="wP.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/wP.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="multiple.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/multiple.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
+            <state relative-caret-position="257">
               <caret line="164" column="158" lean-forward="false" selection-start-line="164" selection-start-column="158" selection-end-line="164" selection-end-column="158" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -120,8 +132,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/css/chessboard-0.3.0.css" />
-        <option value="$PROJECT_DIR$/single.html" />
         <option value="$PROJECT_DIR$/multiple.html" />
+        <option value="$PROJECT_DIR$/single.html" />
       </list>
     </option>
   </component>
@@ -212,25 +224,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WizardChess" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WizardChess" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="chesspieces" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="audio" />
+              <option name="myItemId" value="wikipedia" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -251,13 +253,13 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/img" />
-      <recent name="$PROJECT_DIR$/src/audio" />
-      <recent name="$PROJECT_DIR$/src/img/chesspieces/wikipedia" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/img/chesspieces/wikipedia" />
+      <recent name="$PROJECT_DIR$/src/img" />
+      <recent name="$PROJECT_DIR$/src/audio" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -348,12 +350,12 @@
       <workItem from="1493761353885" duration="55000" />
       <workItem from="1494121817306" duration="3182000" />
       <workItem from="1494125908398" duration="1654000" />
-      <workItem from="1494284764896" duration="3070000" />
+      <workItem from="1494284764896" duration="3689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29637000" />
+    <option name="totallyTimeSpent" value="30256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -391,17 +393,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#2358#2364#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/bB.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -508,11 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/bP.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/bK.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -548,11 +534,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/piece-black-knight.png" />
-    <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/bN.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/piece-black-king.png" />
     <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/piece-black-bishop.png" />
     <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/bB.png">
@@ -642,17 +623,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="42" column="135" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="135" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#2358#2364#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/chessboard-0.3.0.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1215">
@@ -665,7 +635,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/multiple.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
+        <state relative-caret-position="257">
           <caret line="164" column="158" lean-forward="false" selection-start-line="164" selection-start-column="158" selection-end-line="164" selection-end-column="158" />
           <folding>
             <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -675,10 +645,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/bN.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/bP.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/chesspieces/wikipedia/wP.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="135" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="135" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2358#2364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/single.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="180" column="158" lean-forward="false" selection-start-line="180" selection-start-column="35" selection-end-line="180" selection-end-column="158" />
+        <state relative-caret-position="2670">
+          <caret line="178" column="9" lean-forward="true" selection-start-line="178" selection-start-column="9" selection-end-line="178" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
