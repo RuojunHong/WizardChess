@@ -71,3 +71,14 @@
   left: 2px;
 }
 
+.option{
+  width: 70%; max-width: 300px;
+}
+.option:hover{
+  width: 80%;
+  max-width: 350px;
+}
+
+.footer{
+  color: silver;
+}
