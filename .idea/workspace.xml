@@ -5,34 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06244a3d-e3c3-4bbe-919a-1b94efa4bca8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/google-play-badge.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/bB.png" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/bB.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/bK.png" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/bK.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/bN.png" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/bN.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/bP.png" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/bP.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/bQ.png" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/bQ.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/bR.png" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/bR.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/wB.png" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/wB.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/wK.png" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/wK.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/wN.png" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/wN.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/wP.png" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/wP.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/wQ.png" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/wQ.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/wR.png" afterPath="$PROJECT_DIR$/Wizard Chess/platforms/browser/www/src/img/chesspieces/wikipedia/wR.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/bB.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/bB.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/bK.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/bK.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/bN.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/bN.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/bP.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/bP.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/bQ.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/bQ.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/bR.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/bR.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/wB.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/wB.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/wK.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/wK.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/wN.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/wN.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/wP.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/wP.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/wQ.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/wQ.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/wR.png" afterPath="$PROJECT_DIR$/Wizard Chess/www/src/img/chesspieces/wikipedia/wR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/checker_bg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/checker_bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/img_rule.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rule.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple.html" afterPath="$PROJECT_DIR$/multiple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single.html" afterPath="$PROJECT_DIR$/single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/chessboard-0.3.0.css" afterPath="$PROJECT_DIR$/src/css/chessboard-0.3.0.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,11 +33,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+            <state relative-caret-position="182">
+              <caret line="44" column="27" lean-forward="true" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#2624#2630#0" expanded="true" />
+                <element signature="e#2631#2637#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,7 +49,14 @@
             <state relative-caret-position="392">
               <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
               <folding>
-                <marker date="1494287117000" expanded="true" signature="660:675" ph="/*...*/" />
+                <marker date="1508694486000" expanded="true" signature="660:675" ph="/*...*/" />
+                <marker date="1508694486000" expanded="true" signature="1004:1146" ph="{...}" />
+                <marker date="1508694486000" expanded="true" signature="1179:1305" ph="{...}" />
+                <marker date="1508694486000" expanded="true" signature="1319:1351" ph="{...}" />
+                <marker date="1508694486000" expanded="true" signature="1367:1395" ph="{...}" />
+                <marker date="1508694486000" expanded="true" signature="1404:1439" ph="{...}" />
+                <marker date="1508694486000" expanded="true" signature="1453:1490" ph="{...}" />
+                <marker date="1508694486000" expanded="true" signature="1493:1513" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -300,12 +288,12 @@
       <workItem from="1502755374665" duration="318000" />
       <workItem from="1503155206932" duration="2000" />
       <workItem from="1505670671795" duration="32000" />
-      <workItem from="1508693951271" duration="304000" />
+      <workItem from="1508693951271" duration="536000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31202000" />
+    <option name="totallyTimeSpent" value="31434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -384,7 +372,7 @@
           <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#2624#2630#0" expanded="true" />
+            <element signature="e#2631#2637#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -580,8 +568,6 @@
           <caret line="171" column="8" lean-forward="true" selection-start-line="171" selection-start-column="8" selection-end-line="171" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5530#5536#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -598,7 +584,6 @@
           <folding>
             <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5976#5982#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -608,7 +593,14 @@
         <state relative-caret-position="392">
           <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
           <folding>
-            <marker date="1494287117000" expanded="true" signature="660:675" ph="/*...*/" />
+            <marker date="1508694486000" expanded="true" signature="660:675" ph="/*...*/" />
+            <marker date="1508694486000" expanded="true" signature="1004:1146" ph="{...}" />
+            <marker date="1508694486000" expanded="true" signature="1179:1305" ph="{...}" />
+            <marker date="1508694486000" expanded="true" signature="1319:1351" ph="{...}" />
+            <marker date="1508694486000" expanded="true" signature="1367:1395" ph="{...}" />
+            <marker date="1508694486000" expanded="true" signature="1404:1439" ph="{...}" />
+            <marker date="1508694486000" expanded="true" signature="1453:1490" ph="{...}" />
+            <marker date="1508694486000" expanded="true" signature="1493:1513" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -620,11 +612,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        <state relative-caret-position="182">
+          <caret line="44" column="27" lean-forward="true" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#2624#2630#0" expanded="true" />
+            <element signature="e#2631#2637#0" expanded="true" />
           </folding>
         </state>
       </provider>
